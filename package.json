@@ -1,5 +1,5 @@
 {
-  "name": "spotify-tracks",
+  "name": "spotify-recent-tracks",
   "version": "1.0.0",
   "description": "Express API to fetch recently played tracks and sync top tracks to a Spotify playlist",
   "main": "index.js",
